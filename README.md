@@ -8,3 +8,5 @@ pip install -r requirements.txt
 
 ## Run
 streamlit run main.py
+
+click this [link](https://standardeda.herokuapp.com/) for easy visualisation of data
